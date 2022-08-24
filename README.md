@@ -17,7 +17,9 @@ https://www.themoviedb.org/faq/general
 ## Environment variables:
 
 ```java
+const API_KEY = process.env.API_KEY;
 
+https://www.themoviedb.org/faq/general
 ```
 
 ## GitHub
