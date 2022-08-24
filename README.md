@@ -4,6 +4,8 @@
 
 https://next-react-hulu-clone.pages.dev
 
+https://next-react-hulu-clone.vercel.app
+
 https://github.com/coding-to-music/next-react-hulu-clone
 
 From / By https://github.com/codestation21/hulu-clone
