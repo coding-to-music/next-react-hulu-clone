@@ -1,10 +1,10 @@
-# react-next-hulu-clone
+# next-react-hulu-clone
 
 # 🚀 Using Next Js and React Hulu Clone is the perfect example for getting data from REST API 🚀
 
-https://react-next-hulu-clone.pages.dev
+https://next-react-hulu-clone.pages.dev
 
-https://github.com/coding-to-music/react-next-hulu-clone
+https://github.com/coding-to-music/next-react-hulu-clone
 
 From / By https://github.com/codestation21/hulu-clone
 
@@ -26,7 +26,7 @@ git add .
 git remote remove origin
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:coding-to-music/react-next-hulu-clone.git
+git remote add origin git@github.com:coding-to-music/next-react-hulu-clone.git
 git push -u origin main
 ```
 
