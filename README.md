@@ -10,7 +10,9 @@ From / By https://github.com/codestation21/hulu-clone
 
 https://github.com/codestation21/hulu-clone
 
-https://hulu-clone-sh.netlify.app
+https://hulu-clone-sh.netlify.
+
+https://www.themoviedb.org/faq/general
 
 ## Environment variables:
 
